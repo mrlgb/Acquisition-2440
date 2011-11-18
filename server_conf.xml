@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>                                                           
-<Server>                                                                          
-  <Value>                                                                                        
-    <ServerIP>172.31.6.173</ServerIP>                                                            
-    <Port>8080</Port>                                                                            
-    <Rate>10</Rate>                                                                             
-  </Value>                                                                                       
-</Server>
- 
